@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv.bak/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Outputs
+results/*.csv
+results/*.png
+results/*.json
+notebooks/.ipynb_checkpoints/

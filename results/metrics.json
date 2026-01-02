@@ -1,0 +1,22 @@
+{
+  "start": "2010-11-18",
+  "end": "2026-01-02",
+  "train_start": "2010-11-18",
+  "train_end": "2021-06-17",
+  "test_start": "2021-06-18",
+  "test_end": "2026-01-02",
+  "instruments": [
+    "WTI_proxy_USO",
+    "Brent_proxy_BNO",
+    "Gold_GLD"
+  ],
+  "fast": 20,
+  "slow": 120,
+  "vol_target_daily": 0.006,
+  "cost_bps": 10.0,
+  "final_eq_strategy_test": 1.8127282623835324,
+  "final_eq_benchmark_test": 1.1612646963792141,
+  "sharpe_strategy_net_test": 0.7736148961811672,
+  "max_drawdown_strategy_test": -0.21304182305970099,
+  "avg_turnover_test": 0.03702438045893459
+}
